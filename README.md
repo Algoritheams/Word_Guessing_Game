@@ -4,7 +4,7 @@
 Welcome to the Geomatics Engineering Word Guessing Game, a captivating and educational experience designed for enthusiasts of geomatics engineering terminology. This Python-based game offers a unique twist on the classic word-guessing challenge by immersing players in the world of geomatics.
 
 ## How It Works:
-In this engaging game, players are presented with a randomly generated 4-letter geomatics engineering word from a carefully curated list. The challenge begins as players attempt to guess the entire word or individual letters until they either correctly identify the word or decide to conclude the round.
+In this engaging game, players are presented with a randomly generated geomatics engineering word from a carefully curated list. The challenge begins as players attempt to guess the entire word or individual letters until they either correctly identify the word or decide to conclude the round. Each player has only 4 attempts. 
 
 ## Scoring Mechanism:
 The scoring system adds an exciting dimension to the game. Points are calculated based on the letters correctly guessed and the frequency of requests for additional letters. Incorrect guesses incur a penalty, costing the player 10% of the current word's score. If a player chooses to give up, the points lost correspond to the sum of the uncovered letters.
